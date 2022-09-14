@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+
+.container{
+	
+	width: 600px;
+	margin-top:40px;
+}
+
+h1, h2{
+	text-align: center;
+}
+
+h2{
+	background-color: #c885fa;
+}
+
+p{
+	text-align: center;
+	color: #0000a0;
+	font-size: 40px;
+}
+
+.longbtn{
+	width: 540px;
+	background-color: white;
+	margin: 0px 15px 0px 15px;
+}
+
+.topcontainer{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.bigcontainer{
+	width:800px;
+	margin:40px;
+}
+
+.deletebtn{
+	margin-top: 20px;
+}
